@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/fauzan1892/fauzan1892/master/assets/img/anang-min.jpg)
+![image](https://markey.id/wp-content/uploads/2019/01/20180104-001.jpg)
 <br>
 <br>
 ## Hi there 👋 
