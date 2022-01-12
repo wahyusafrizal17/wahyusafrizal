@@ -33,5 +33,5 @@ My name is Wahyu Safrizal. I am a Website Developer and  live in Bandung City, W
 <br><br>
 ### My Github Stats :chart_with_upwards_trend:
 ![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=wahyusafrizal17&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusafrizal17&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
