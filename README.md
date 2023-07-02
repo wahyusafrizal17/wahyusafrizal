@@ -7,7 +7,7 @@
 My name is Wahyu Safrizal. I am a Website Developer and  live in Bandung City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 <br>
 <br>
-:pencil: I like blogging as well. You can read [my blog](https://www.wayyystack.id/).
+:pencil: I like blogging as well. You can read [my blog](http://wahyusafrizal.com/).
 <br>
 <br>
 :construction_worker: I am looking for new PHP remote work. My resume is [online](https://wahyu.wayyystack.id/)
