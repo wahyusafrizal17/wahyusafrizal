@@ -24,6 +24,7 @@ My name is Wahyu Safrizal. I am a Website Developer and  live in Bandung City, W
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/lumen-%23FF2D20.svg?style=for-the-badge&logo=lumen&logoColor=white)
 ![image](https://img.shields.io/badge/yii-black.svg?style=for-the-badge&logo=YII&logoColor=white)
 ![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
