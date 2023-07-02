@@ -10,7 +10,7 @@ My name is Wahyu Safrizal. I am a Website Developer and  live in Bandung City, W
 :pencil: I like blogging as well. You can read [my blog](http://wahyusafrizal.com/).
 <br>
 <br>
-:construction_worker: I am looking for new PHP remote work. My resume is [online](https://wahyu.wayyystack.id/)
+:construction_worker: I am looking for new PHP remote work. My resume is [online](http://portofolio.wahyusafrizal.com/)
 <br><br>
 ### Technologies & Tools :wrench:
 
